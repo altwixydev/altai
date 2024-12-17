@@ -2,12 +2,12 @@
 
 ## What is this?
 
-** ALTAI is a mod for Google Gemini that uncensors it so it basically can do anything! **
+**ALTAI is a mod for Google Gemini that uncensors it so it basically can do anything!**
 
 
 ## What can it do?
 
-**  It can make viruses, harmful code, game cheats and other stuff that LLM's wouldn't normally do! **
+**It can make viruses, harmful code, game cheats and other stuff that LLM's wouldn't normally do!**
 
 ## How do i set it up?
 
